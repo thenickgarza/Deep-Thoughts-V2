@@ -1,12 +1,12 @@
 import React from 'react';
-import { ApolloProvider, ApolloClient, InMemoryCache, createHTTPLink } from '@apollo/client'
+import { ApolloProvider, ApolloClient, InMemoryCache, createHttpLink } from '@apollo/client'
 
 import Header from './components/Header';
 import Footer from './components/Footer';
 
 import Home from './pages/Home';
 
-const httpLink = createHTTPLink({
+const httpLink = createHttpLink({
   uri: 'http://localhost:3001/graphql',
 });
 
