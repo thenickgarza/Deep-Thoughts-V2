@@ -1,0 +1,19 @@
+{
+  "name": "deep-thoughts-v2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thenickgarza/Deep-Thoughts-V2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thenickgarza/Deep-Thoughts-V2/issues"
+  },
+  "homepage": "https://github.com/thenickgarza/Deep-Thoughts-V2#readme"
+}
